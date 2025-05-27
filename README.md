@@ -23,23 +23,15 @@ OnlineShopping/
 
 
 🧩 Requirements
-
 1.Java JDK 8+
-
 2.MySQL Server
-
 3.MySQL JDBC Connector (add to classpath)
 
 💡 How to Run
-
 1.Clone this repo
-
 2.Import into your favorite IDE (Eclipse/IntelliJ)
-
 3.Make sure your MySQL server is running
-
 4.Update DB credentials in DBConnection.java
-
 5.Run Main.java
 
 📄 License
